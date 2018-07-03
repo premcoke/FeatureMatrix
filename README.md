@@ -1,5 +1,5 @@
 
-# EJ2 DropDownList sharing value in Angular routing.
+# EJ2 Calendar components Feature matrix sample with Angular routing.
 
 ## Installing
 
