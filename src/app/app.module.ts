@@ -28,6 +28,7 @@ import { RangeTagComponent } from './tag/tag.component';
 import { TwowayComponent } from './binding/twoway.component';
 import { SampleComponent } from './sample/sample.component';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
+import { DialogComponent } from '@syncfusion/ej2-ng-popups';
 
 @NgModule({
   declarations: [
@@ -45,6 +46,7 @@ import { LocationStrategy, HashLocationStrategy } from '@angular/common';
     RadioButtonComponent,
     ButtonComponent,
     TimeComponent,
+    DialogComponent,
     DateComponent,
     MultiSelectComponent,
     DropDownListComponent,
