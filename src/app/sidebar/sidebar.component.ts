@@ -27,7 +27,7 @@ export class SideComponent {
       this.Sidebar.type = args.value;
     }
     showHide(args: any){
-      if(this.Sidebar.isOpen()) this.Sidebar.hide();
+      if(this.Sidebar.isOpen) this.Sidebar.hide();
       else this.Sidebar.show();
     }
     Destroy(){
