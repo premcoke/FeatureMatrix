@@ -30,13 +30,11 @@ import { CheckBoxComponent } from '@syncfusion/ej2-ng-buttons';
 import { ListViewModule } from '@syncfusion/ej2-ng-lists';
 import { SidebarModule } from '@syncfusion/ej2-ng-navigations';
 import { ButtonModule } from '@syncfusion/ej2-ng-buttons';
-import { CustomComponent } from './custom-list/custom.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DialogComponent,
-    CustomComponent,
     AboutComponent,
     HomeComponent,
     SampleComponent,
